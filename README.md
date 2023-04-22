@@ -17,19 +17,16 @@ Both examples demonstrate the limitations of Nash equilibrium. In the Nash equil
 - self-introduction
   I am a student majoring in Computer design in the track of computer science. Currently studying at Duke Kunshan University.
 - Final reflections 
-  - intellectual growth
-This game made me use a lot of mathematical formulas to calculate. Before making this game, I didn't realize how difficult it would be to create a balanced game environment. If we just made a game that worked, it would be easy. However, if we want our game to be used to test the player's preference for every decision and 1 make the game as balanced as possible, this is difficult. After using a lot of mathematical formulas, at least my mathematical ability has improved.
-  - professional growth
-Professionally, oTree is a software platform I have never come into contact with. During the process of making OTree, I enhanced my Python skills and found some programming problems of my own. After making this game, the relevant expertise has been enhanced.
-  - living a purposeful life
-Before making a game, I thought it was meaningless, like writing a novel with only a few lines. We cannot tell a complete story through short descriptions or procedures. However, in the process of making this game, I realized that even a short game can contain a lot of games and possibilities.
+ - Something about limitations of Nash equilibrium
 
+(1) Nash equilibrium is based on the theory of rational economic man (Nisan). However, in the ultimatum game, I analyzed in week 1, it is easy to see that some participants are willing to reduce their benefits to punish players who are unwilling to follow the rules of the game or betray the cooperative players. Participants do not always act to maximize their benefits, so Nash equilibria do not always hold in the real world.
 
+(2) Nash equilibrium assumes that all players know everything around them, such as the ability to accurately assess the price of certain goods about the quantity produced, or to accurately predict the benefits of certain actions for themselves. Or that two players can always share the same knowledge or agree on certain issues. In the real world, however, this is not possible, so even if the players are rational and want to maximize their benefits, they may not be able to make the best choices.
 ### References
 
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+- Nisan, Noam. Algorithmic Game Theory. 2007.
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+
 
 ```
 @article{levin2022bridging,
